@@ -1,2 +1,5 @@
 # MyFirstGame
-Simple projected created to understand the backend of gaming. 
+//** DISCLAIMER **//
+//** Code for the game engine does not belong to me. **//
+
+
